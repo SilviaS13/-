@@ -1,0 +1,29 @@
+
+Compile C program:
+gcc blink.c -o blink -lwiringPi 
+gcc blink.c -o blink -lwiringPi -lwiringPiDev
+
+
+https://habrahabr.ru/company/ua-hosting/blog/273201/ - vnc 
+
+https://habrahabr.ru/company/southbridge/blog/255845/ - Systemd и автозапуск
+https://www.cyberciti.biz/faq/howto-set-date-time-from-linux-command-prompt/ - Время и дата
+http://www.orangepi.org/Docs/SDcardinstallation.html - как заливать на сд-карту
+IO
+https://www.geeksforgeeks.org/linux-kernel-module-programming-hello-world-program/ - Программирование модулей ядра
+https://coder-booster.ru/learning/linux-beginners/running-programs-in-the-background - фоновые процессы и Kill
+https://linux.die.net/man/3/sleep - sleep
+
+LIBRARIES
+https://github.com/jgarff/rpi_ws281x/blob/master/README.md - Adafruit Led strip lib
+https://pcminipro.ru/orangepi/wiringop-wiringpi-na-orange-pi/ - WiringOP-Zero for GP
+
+RTOS
+https://wiki.archlinux.org/index.php/Realtime_kernel 
+https://www.kernel.org/pub/linux/kernel/projects/rt/3.4/older/
+https://github.com/orangepi-xunlong/orangepi_h2_linux
+
+POSIX commands
+https://www.opennet.ru/docs/RUS/linux_parallel/node7.html - fork()
+
+
