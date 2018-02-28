@@ -5,6 +5,8 @@ datasheets/
 WiringOP-Zero/
 bin/
 doc/imgs/
+display/examples/
+*.directory
 
 # Compiled source #
 ###################
